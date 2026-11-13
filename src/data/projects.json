@@ -1,0 +1,47 @@
+[
+  {
+    "id": "roadmap-cs",
+    "name": "Roadmap CS",
+    "url": "",
+    "repo": "https://github.com/EnryuuLook51/RoadMap",
+    "description": "Mapa interactivo de computación: fundamentos, tecnologías, herramientas y especializaciones, con rutas y progreso.",
+    "tags": ["roadmap", "estudio", "html", "css", "js"],
+    "status": "wip",
+    "path": "Desktop/apps/RoadMapPAGINA",
+    "updated": "2026-11-12",
+    "pinned": true
+  },
+  {
+    "id": "galeria",
+    "name": "Galería — Personal Sketchbook",
+    "url": "",
+    "repo": "",
+    "description": "Portafolio interactivo que se dibuja mientras haces scroll: proyectos, laboratorio, aprendizajes e ideas.",
+    "tags": ["portafolio", "react", "vite", "gsap", "tailwind"],
+    "status": "wip",
+    "path": "Desktop/apps/Galeria",
+    "updated": "2026-11-13"
+  },
+  {
+    "id": "videosclaude",
+    "name": "videosclaude",
+    "url": "",
+    "repo": "",
+    "description": "Generador de videos animados con GSAP, renderizados con Playwright y ffmpeg. Corre en local con pnpm app.",
+    "tags": ["video", "gsap", "playwright", "ffmpeg", "node"],
+    "status": "local",
+    "path": "Desktop/apps/videosclaude",
+    "updated": "2026-11-12"
+  },
+  {
+    "id": "proyectos",
+    "name": "Mis proyectos",
+    "url": "",
+    "repo": "",
+    "description": "Este índice: busca un proyecto y ábrelo sin acordarte de la URL.",
+    "tags": ["índice", "react", "vite", "tailwind"],
+    "status": "wip",
+    "path": "Desktop/apps/Proyectos",
+    "updated": "2026-11-13"
+  }
+]

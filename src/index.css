@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  color-scheme: light;
+}
+
+body {
+  background: #f4f0e7;
+  color: #242522;
+  font-family: Newsreader, Georgia, serif;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  overflow-x: hidden;
+}
+
+::selection {
+  background: rgba(217, 130, 82, 0.3);
+}
+
+:focus-visible {
+  outline: 1.5px dashed #d98252;
+  outline-offset: 3px;
+}
+
+input[type='search']::-webkit-search-cancel-button {
+  cursor: pointer;
+}

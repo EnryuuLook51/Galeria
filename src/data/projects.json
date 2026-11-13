@@ -37,7 +37,7 @@
     "id": "proyectos",
     "name": "Mis proyectos",
     "url": "",
-    "repo": "",
+    "repo": "https://github.com/EnryuuLook51/Galeria",
     "description": "Este índice: busca un proyecto y ábrelo sin acordarte de la URL.",
     "tags": ["índice", "react", "vite", "tailwind"],
     "status": "wip",
